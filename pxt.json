@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.8.16"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.8.16",
+        "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.8.16"
     },
     "files": [
         "main.blocks",
