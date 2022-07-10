@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "jacdac": "github:microsoft/pxt-jacdac#v1.8.16",
-        "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.8.16"
+        "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.8.16",
+        "jacdac-potentiometer": "github:microsoft/pxt-jacdac/potentiometer#v1.8.16"
     },
     "files": [
         "main.blocks",
